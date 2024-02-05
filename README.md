@@ -1,0 +1,2 @@
+# Drupal-website
+ Creating a personal website using Drupal and incorporating the Drupal Zuvi theme to enhance its visual appeal is an exciting endeavor. Drupal, with its robust content management system, provides a solid foundation for building dynamic and feature-rich websites. The Zuvi theme, known for its aesthetic design and user-friendly interface, adds a touch of elegance to the overall look and feel of the website.
