@@ -1,0 +1,160 @@
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+  /* Layout */
+  .no-sidebar .main-container {
+    grid-template-columns: 100%;
+  }
+  .sidebar-left .main-container {
+    grid-template-columns: 30% 70%;
+  }
+  .sidebar-right .main-container {
+    grid-template-columns: 70% 30%;
+  }
+  .two-sidebar .main-container {
+    grid-template-columns: 30% 40% 30%;
+  }
+  #main {
+    order: 2;
+  }
+  .sidebar {
+    position: relative;
+    width: 100%;
+    margin: 0;
+  }
+  /* Sidebar */
+  #sidebar-left {
+    order: 1;
+    padding: 0 20px 0 0;
+  }
+  #sidebar-right {
+    order: 3;
+    padding: 0 0 0 20px;
+  }
+  .services,
+  .full,
+  .footer-container,
+  .footer-bottom-last,
+  .flex-container {
+    flex-direction: row;
+  }
+  .full {
+    margin-bottom: 1em;
+  }
+  .item {
+    flex: 1;
+    padding: 0 20px 0 0;
+    margin: 0;
+  }
+  .item:last-child {
+    padding: 0;
+  }
+  .service {
+    margin: 0.5em;
+    flex: 1 1 calc(33.333333% - 1em);
+    max-width: calc(33.333333% - 1em);
+  }
+  /* main */
+  .node-header {
+    font-size: 1em;
+  }
+  li.taxonomy-term a {
+    padding: 8px 20px;
+  }
+  li.node-readmore a {
+    padding: 0.6em 1em;
+  }
+  /* Comment */
+  .comment-user-picture {
+    flex: 0 0 100px;
+    padding: 0 10px;
+  }
+  /* Footer */
+  .footer-bottom-last > * {
+    margin-bottom: 0;
+  }
+  .footer-block {
+    padding-right: 20px;
+  }
+  .last-flex-item, .last-footer-block {
+    padding-right: 0;
+  }
+  .social-icons li {
+    margin: 0;
+  }
+  /* components */
+  .width30 {
+    width: 30%;
+  }
+  .width40 {
+    width: 40%;
+  }
+  .width50 {
+    width: 50%;
+  }
+  .width60 {
+    width: 60%;
+  }
+  .width70 {
+    width: 70%;
+  }
+  .width80 {
+    width: 80%;
+  }
+  .width90 {
+    width: 90%;
+  }
+}
+@media (min-width: 992px) {
+  th {
+    padding: 10px;
+  }
+  td {
+    padding: 5px 10px;
+  }
+  /* Header */
+  .site-branding img {
+    max-height: 80px;
+  }
+  .site-name {
+    font-size: 1.6em;
+  }
+  .site-slogan {
+    font-size: 0.9em;
+    margin-top: 2px;
+  }
+  .morphist {
+    text-align: left;
+  }
+  .menu-wrap {
+    position: relative;
+    float: right;
+    margin-left: 0;
+    transition: none;
+  }
+  .mobile-menu {
+    display: none;
+  }
+  .main-menu {
+    display: block;
+  }
+  .search-box-content .block {
+    width: 70%;
+  }
+  #page-header {
+    padding: 6em 0 1em 0;
+  }
+  .header-circle1,
+  .header-circle2,
+  .header-circle3,
+  .header-circle4 {
+    width: 7em;
+    height: 7em;
+  }
+  .header-circle5,
+  .header-circle6 {
+    width: 10em;
+    height: 10em;
+  }
+}

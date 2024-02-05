@@ -1,0 +1,22 @@
++===============================+
+Version 10.1.0
+21 Dec, 2022
++===============================+
+# Initial version of 10.x.x series.
+
+
+
++===============================+
+Version 10.2.0
+30 Dec, 2023
++===============================+
+# Changed close cursor icon of full page search.
+# Changed font icon library.
+# Updated twitter icon with the new X icon.
+
+
++===============================+
+Version 10.2.1
+31 Dec, 2023
++===============================+
+# Minor improvements.

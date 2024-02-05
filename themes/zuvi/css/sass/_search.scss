@@ -1,0 +1,31 @@
+/* Search result page
+--------------------------------------*/
+.page-content input[type="search"] {
+  width: 80%;
+}
+ol.search-results {
+  margin: 1em 0;
+  padding: 0;
+  list-style: none;
+  list-style-type: none;
+}
+ol.search-results li {
+  margin: 0 0 1em 0;
+  padding: 1em;
+  background: #181a25;
+  background: var(--bg-content);
+}
+.search-advanced summary {
+  margin: 10px 0;
+  cursor: pointer;
+}
+.search-advanced .form-details-wrapper {
+  padding: 0.5em 1.4em;
+  border: 1px solid #282d38;
+  border: 1px solid var(--border-color);
+}
+.search-advanced .form-wrapper {
+  padding: 0.5em 1.4em;
+  border: 1px solid #282d38;
+  border: 1px solid var(--border-color);
+}
