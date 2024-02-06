@@ -1,6 +1,17 @@
+Here are some images of my personal website 💕 <br>
+<br>
+<img alt="Home page" src="home.png" height="340px"> <br>
+<img alt="About page" src="about.jpg" height="600px" width="250px"> 
+<img alt="Contact page" src="contact.png" height="600px" width="300px">
+
+
+A brief overview of Drupal ❤️, an open-source content management platform for various websites. It covers contributing, usage, changelog, security, support, and legal aspects of the Drupal community.
+
+
+
 <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
 
-Drupal is an open source content management platform supporting a variety of
+Drupal is an open-source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
 more information, visit the Drupal website, [Drupal.org][Drupal.org], and join
 the [Drupal community][Drupal community].
